@@ -6,13 +6,9 @@ In today’s competitive telecommunications industry, understanding customer beh
 
 By analyzing customer data, the models uncover key patterns that allow for targeted marketing approaches. The best-performing model achieved over 90% accuracy, and the project identified actionable business insights to guide future marketing strategies, optimizing campaign effectiveness and maximizing return on investment.
 
----
-
 ## Problem Statement
 
 The company faces challenges in identifying customer segments most responsive to marketing campaigns, leading to inefficient strategies and missed opportunities. This project aims to predict customer subscription to a new plan based on historical data, enabling data-driven decision-making and better marketing targeting.
-
----
 
 ## Methods
 
@@ -34,15 +30,11 @@ Four machine learning models were developed and evaluated:
 - Models were evaluated using Accuracy, Precision, Recall, and F1-Score with cross-validation to ensure generalization.
 - A Generalized Linear Model (GLM) using Maximum Likelihood Estimation (MLE) was applied to extract key business insights.
 
----
-
 ## Results
 
 - The **Decision Tree** model outperformed others with accuracy of 98.5%, precision of 98.2%, recall of 98.5%, and F1-Score of 98.3%, making it highly effective at identifying likely subscribers.
 - XGBoost showed balanced precision and recall, while Logistic Regression and MLP had slightly lower performance.
 - Key predictors identified include consumer price index, duration of contact, contact method, and previous campaign engagement.
-
----
 
 ## Business Insights
 
@@ -55,8 +47,6 @@ Four machine learning models were developed and evaluated:
 
 These insights can help refine targeting and improve campaign efficiency.
 
----
-
 ## Conclusion
 
 This project demonstrates the effectiveness of machine learning in predicting customer subscription and supporting marketing strategy optimization. The Decision Tree model is the best performer, providing reliable predictions and valuable insights to improve campaign success, ROI, and customer loyalty.
@@ -65,7 +55,7 @@ Future work could explore more features, segment-specific modeling, and real-tim
 
 ---
 
-## How to Run
+## ▶️ How to Run
 
 1. Clone the repository:
    ```bash
@@ -77,3 +67,10 @@ Future work could explore more features, segment-specific modeling, and real-tim
 3. Run the notebook:
    Open statistical_project.ipynb in Jupyter Notebook or VS Code
 
+## 📁 Files Included
+
+- statistical_project.ipynb – Jupyter Notebook containing all data analysis and modeling steps.
+- statistical_project.py – Script version of the notebook for streamlined code review.
+- TeleCom_Data.csv – Original dataset used in the analysis.
+- requirements.txt – List of dependencies required to run the project.
+- Data analysis project for marketing campaigns_10_11_2024.pdf – Comprehensive project report summarizing the methodology, analysis, and key findings.
