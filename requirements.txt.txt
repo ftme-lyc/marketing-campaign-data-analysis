@@ -1,0 +1,11 @@
+pandas
+numpy
+dataprep
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+xgboost
+imbalanced-learn
+torch
+scipy
