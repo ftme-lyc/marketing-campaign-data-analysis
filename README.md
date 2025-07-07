@@ -1,8 +1,8 @@
 # Marketing Campaign Subscription Prediction
 
-## Project Overview
-
 In today’s competitive telecommunications industry, understanding customer behavior and predicting their response to marketing campaigns is critical for success. This project focuses on predicting the likelihood of customers subscribing to a new telecommunication plan using machine learning models.
+
+## Project Overview
 
 By analyzing customer data, the models uncover key patterns that allow for targeted marketing approaches. The best-performing model achieved over 90% accuracy, and the project identified actionable business insights to guide future marketing strategies, optimizing campaign effectiveness and maximizing return on investment.
 
