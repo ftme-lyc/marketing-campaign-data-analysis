@@ -59,8 +59,8 @@ Future work could explore more features, segment-specific modeling, and real-tim
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ftme-lyc/telecom-eda.git](https://github.com/ftme-lyc/data-exploration-app.git)
-   cd data-exploration-ap
+   git clone https://github.com/ftme-lyc/telecom-eda.git
+   cd telecom-eda
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
